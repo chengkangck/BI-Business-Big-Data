@@ -27,8 +27,13 @@ The data is stored in the database, and this project provides organized sql file
 
 #### (4) FineBI realizes data visualization
 
+### 1.3 System architecture
+
 ![image](https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/BIArchitecture.png)
 
+- Build a data warehouse based on MySQL
+- Data processing based on Kettle
+- FineBI conducts data analysis based on the data warehouse built by MySQL
 
 ## 2. MySQL data analysis and development
 
