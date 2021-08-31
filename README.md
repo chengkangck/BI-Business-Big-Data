@@ -4,8 +4,8 @@ Build BI business big data analysis platform, analyze business with actual e-com
 
 Based on MySQL database, use Kettle and FineBI to realize data visualization. The project uses MySQL as a data analysis storage and query engine, Kettle as a data processing script execution tool, and Fanruan FineBI to realize data visualization. quickly realize **data analysis** and **visual development** in the future.
 The final effect of the project is as follows:
+<center><embed src="/images/E-commerce_order_analysis.pdf" width="850" height="600"></center>
 
-![pdf](https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/E-commerce_order_analysis.pdf)
 
 
 
