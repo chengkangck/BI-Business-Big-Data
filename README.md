@@ -10,6 +10,13 @@ The final effect of the project is as follows:
 
 ### 1.1 Data source
 
+- The user opens the browser and visits the e-commerce page
+- After the user presses enter, the browser sends a request to the web server of the e-commerce website
+- The web server fetches data from the database and returns
+- Display data on the front-end page
+
+The data is stored in the database, and this project provides organized sql files from E-commerce website.
+
 ### 1.2 Project tasks
 
 #### (1) **DataGrip connect to MySQL**, Create itcast_shop database and import data, Create itcast_shop_bi data warehouse
