@@ -1,0 +1,5 @@
+itcast_shop_v1.2.sql: business data
+itcast_shop_bi.sql: ODS layer data
+
+You can demonstrate how to incrementally or fully synchronize business data to ODS data in the two cases in Kettle
+Then run the itcast_shop_bi.sql script directly in DataGrip to generate ODS layer data for analysis
