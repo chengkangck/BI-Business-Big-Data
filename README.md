@@ -5,3 +5,7 @@ Build BI business big data analysis platform, analyze business with actual e-com
 ### 1.1 Data source
 
 ### 1.2 Project tasks
+
+![image](https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/BIArchitecture.png)
+
+
