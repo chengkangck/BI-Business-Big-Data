@@ -12,7 +12,7 @@ The final effect of the project is as follows:
 
 ### 1.2 Project tasks
 
-#### (1) 将数据导入Hive数据库
+#### (1) DataGrip connect to MySQL, Create itcast_shop database and import data, Create itcast_shop_bi data warehouse
 
 #### (2)探索数据，汇总数据建立数据仓库(Sales主题)
 
