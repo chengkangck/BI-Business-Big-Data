@@ -38,4 +38,12 @@ We are already familiar with the above 6 tables. Not all data in these 6 tables 
 - The rate of change of commodity classification and region is very small, because classification and region are almost constant throughout the year.
 - The relative frequency of changes in commodity data is relatively high, because commodity information may be updated every day.
 
+Combining the above business scenarios, we can determine the data extraction cycle:
+
+![image](https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/data%20extraction%20cycle.PNG)
+
+- Full synchronous extraction: synchronously extract all data to the data warehouse
+- Incremental synchronous extraction: only extract new data to the data warehouse
+
+
 
