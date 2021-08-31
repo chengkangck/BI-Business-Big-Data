@@ -35,6 +35,14 @@ The data is stored in the database, and this project provides organized sql file
 - Data processing based on Kettle
 - FineBI conducts data analysis based on the data warehouse built by MySQL
 
+### 1.4 Summary
+- MySQL graphical development tool-DataGrip and DDL, DML, DCL, DQL
+- How to use MySQL as a data warehouse for data analysis
+- Master the common usage of SQL language in data analysis
+- Master how Kettle processes data
+- Set up a Kettle development environment, master the use of Kettle input components, and master the use of Kettle output components
+- Master FineBI for data visualization analysis
+
 ## 2. MySQL data analysis and development
 
 ### 2.1 Table structure overview
