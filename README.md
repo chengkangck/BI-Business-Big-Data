@@ -12,6 +12,14 @@ The final effect of the project is as follows:
 
 ### 1.2 Project tasks
 
+#### (1) 将数据导入Hive数据库
+
+#### (2)探索数据，汇总数据建立数据仓库(Sales主题)
+
+#### (3)PowerBI实现数据可视化
+
+#### (4)使用python代码发送日报
+
 ![image](https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/BIArchitecture.png)
 
 
