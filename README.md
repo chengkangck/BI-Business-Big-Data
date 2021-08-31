@@ -23,4 +23,10 @@ The final effect of the project is as follows:
 ![image](https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/BIArchitecture.png)
 
 
+## 2. MySQL data analysis and development
+
+### 2.1 Table structure overview
+https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/table%20structure.PNG
+
+
 
