@@ -2,7 +2,7 @@
 ## 1. Project introduction
 Build BI business big data analysis platform, analyze business with actual e-commerce, run through data generation, data warehouse, ETL, data analysis, visual analysis and business BI report.
 
-Based on MySQL database, use Kettle and FineBI to realize data visualization. The project uses MySQL as a data analysis storage and query engine, Kettle as a data processing script execution tool, and Fanruan FineBI to realize data visualization. Let students quickly realize data analysis and visual development in the future.
+Based on MySQL database, use Kettle and FineBI to realize data visualization. The project uses MySQL as a data analysis storage and query engine, Kettle as a data processing script execution tool, and Fanruan FineBI to realize data visualization. quickly realize **data analysis** and **visual development** in the future.
 The final effect of the case is as follows:
 
 
