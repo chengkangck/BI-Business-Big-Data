@@ -45,5 +45,11 @@ Combining the above business scenarios, we can determine the data extraction cyc
 - Full synchronous extraction: synchronously extract all data to the data warehouse
 - Incremental synchronous extraction: only extract new data to the data warehouse
 
+#### 2.2.2 ODS
+ODS (Operational Data Store) is a concept of data architecture or database design. The reason for this is when data from multiple systems needs to be integrated, and the result is to be used by one or more systems.
+![image](https://github.com/chengkangck/BI-Business-Big-Data/blob/main/images/ODS.PNG)
+
+The ods table of the data warehouse is extracted from the business system database table as it is, and the structure is almost the same, except that a date field for extracting data is added.
+
 
 
